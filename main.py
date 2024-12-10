@@ -11,10 +11,9 @@ def print_hi(given_name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('git rules the world')
+    print_hi('PyCharm rules not the world')
 # so
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # Neues aus der 18
-# Anhang
-# 7 9 14 angehängt
+# Nichts Neues
