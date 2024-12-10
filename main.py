@@ -11,7 +11,7 @@ def print_hi(zxyname):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm rules the world!!!')
+    print_hi('PyCharm rules the world!')
 # so
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
