@@ -4,10 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
+def print_hi(zxyname):
     # Use a breakpoint in the code line below to debug your script.
-
-    print(f'Hi Sie rocker yes, {name}')  # Press Strg+F8 to toggle the breakpoint.
+    print(f'Hi Sie rocker, {zxyname}')  # Press Strg+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
@@ -17,3 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # Neues aus der 18
+# Und noch mehr.
