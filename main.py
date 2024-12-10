@@ -4,9 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(yname):
+def print_hi(zxname):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hallo mein Lieber, {yname}')  # Press Strg+F8 to toggle the breakpoint.
+    print(f'Hi Sie rocker, {zxname}')  # Press Strg+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
