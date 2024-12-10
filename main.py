@@ -17,4 +17,4 @@ if __name__ == '__main__':
 
 # Neues aus der 18
 # Anhang
-# blub blub blub
+# 7 9 14 angehängt
