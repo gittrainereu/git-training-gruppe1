@@ -11,9 +11,10 @@ def print_hi(vvname):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm rules or rules to the world')
+    print_hi('PyCharm rules the world')
 # so
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # Neues aus der 18
-# Was anderes
+# Anhang
+# 7 9 14 angehängt
