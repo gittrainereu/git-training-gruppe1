@@ -6,7 +6,7 @@
 
 def print_hi(zname):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi du, {zname}')  # Press Strg+F8 to toggle the breakpoint.
+    print(f'Hi du rocker, {zname}')  # Press Strg+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
